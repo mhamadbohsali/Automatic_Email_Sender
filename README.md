@@ -1,6 +1,6 @@
-# Ipsos Value Awards Email Sender
+# Value Awards Email Sender
 
-This script sends personalized HTML emails with an inline header image using Microsoft Outlook's COM interface. It's used to remind users to nominate colleagues for the Ipsos Value Awards.
+This script sends personalized HTML emails with an inline header image using Microsoft Outlook's COM interface. It's used to remind users to nominate colleagues for the Value Awards.
 
 ## Features
 
